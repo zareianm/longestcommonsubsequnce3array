@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\bin\Debug\netcoreapp3.1\longestcommonsubsequnce3array.exe
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\bin\Debug\netcoreapp3.1\longestcommonsubsequnce3array.deps.json
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\bin\Debug\netcoreapp3.1\longestcommonsubsequnce3array.runtimeconfig.json
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\bin\Debug\netcoreapp3.1\longestcommonsubsequnce3array.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\bin\Debug\netcoreapp3.1\longestcommonsubsequnce3array.dll
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\bin\Debug\netcoreapp3.1\longestcommonsubsequnce3array.pdb
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.dll
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.pdb
+C:\Users\ADMIN\Desktop\longestcommonsubsequnce3array\longestcommonsubsequnce3array\obj\Debug\netcoreapp3.1\longestcommonsubsequnce3array.genruntimeconfig.cache
